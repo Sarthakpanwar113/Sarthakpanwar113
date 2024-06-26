@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarthak84820540" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak84820540?logo=twitter&style=for-the-badge" alt="sarthak84820540" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://sarthakpanwarportfolio.netlify.app](https://sarthakpanwarportfolio.netlify.app)
 
